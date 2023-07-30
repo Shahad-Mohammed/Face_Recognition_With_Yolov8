@@ -3,6 +3,10 @@
 This repository contains a Python script for a face recognition application with real-time face detection using the YOLOv4 model. The application provides a graphical user interface (GUI) built using tkinter and utilizes the face_recognition library for face recognition tasks.
 
 
+
+https://github.com/Shahad-Mohammed/Face_Recognition_With_Yolov8/assets/74230739/3fe79efe-97ae-4204-9b6a-8c8a75df63b4
+
+
 # Features
   1. Real-time face recognition using YOLOv4 model for face detection
   2. Comparison of detected faces with known face encodings
